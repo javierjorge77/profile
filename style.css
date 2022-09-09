@@ -3,11 +3,11 @@
 
 p {
   font-family: 'Oswald', sans-serif;
-  color: #78c0e0;
+  color: #17A398;;
 }
 
 body {
-  background-color:#ffead0;
+
   font-family: 'Oswald', sans-serif;
   font-weight: 300; /* if you want the light version */
 }
@@ -33,7 +33,7 @@ a {
 }
 
 a:hover {
-  color:  rgb(218, 65, 103) ;
+  color:  #C44900 ;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ font-size:xx-large;
 
 .card {
   text-align: center;
-  background:#2E4057 ;
+  background: #04151F ;
   padding: 30px;
   border: 1px solid lightgrey;
   border-radius: 4px;
